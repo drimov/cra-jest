@@ -1,5 +1,5 @@
 {
-  "name": "cras-jest",
+  "name": "cra-jest",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
